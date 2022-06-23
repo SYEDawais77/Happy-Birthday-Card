@@ -2,4 +2,6 @@
     <string name="app_name">Happy Birthday</string>
     <string name="syed_awais_shah">Syed Awais Shah</string>
     <string name="happy_birthday">Happy Birthday</string>
+    <string name="happy_birthday_syed_awais_shah">Happy Birthday, Syed Awais Shah</string>
+    <string name="from_syed_junaid_shah">From: Syed Junaid Shah</string>
 </resources>
